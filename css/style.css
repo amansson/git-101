@@ -1,3 +1,10 @@
 body {
   font-size: 14px;
+  margin: 20px;
+  font-family: Arial;
+}
+
+p {
+  font-weight: bold;
+  color: #cccccc;
 }
